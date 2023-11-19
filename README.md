@@ -4,8 +4,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chiajunbin&show_icons=true&theme=onedark&locale=en&layout=compact" alt="chiajunbin" />
 </div>
 
-<br>
-
-<div align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=chiajunbin&show_icons=true&theme=onedark&locale=en" alt="chiajunbin" />
-</div>
